@@ -1,0 +1,6 @@
+npm install express --save
+npm install express-handlebars --save
+npm install stylus --save
+npm install nib --save
+
+node server.js

@@ -1,0 +1,18 @@
+{
+  "name": "huge",
+  "version": "0.0.1",
+  "description": "A Node.js App using Express, Handlebars and Stylus",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "nib": "^1.1.2",
+    "stylus": "^0.54.5"
+  },
+  "engine": "node >=0.6.x",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "index.js",
+  "author": "Ivan Rocha",
+  "license": "ISC"
+}
